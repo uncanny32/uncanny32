@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to learn more from open source projects
 - 📫 How to reach me israelbright33@gmail.com
-- 😄 Pronouns: HE/HIS
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i tried the 1 btc challenge with little progress,i can share the details if intrested.
 
 <!---
