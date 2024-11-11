@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to learn more from open source projects
-- 📫 How to reach me israelbright33@gmail.com
+- 📫 How to reach me,when neccessary i will give details
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i tried the 1 btc challenge with little progress,i can share the details if intrested.
 
